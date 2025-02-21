@@ -1,13 +1,9 @@
-```markdown
 # 🦋 Butterfly Structure - Infinite Animation
 
 An mesmerizing infinite animation that organically evolved from a simple **circle equation** into a **butterfly-like structure**. This project is a creative exploration of mathematical curves and animations, resulting in a stunning visual effect. ✨
 
 ## 🚀 Live Demo
-🔗 [Check it out on Vercel!](#) *(Replace `#` with your live link)*
-
-## 🎨 Preview
-![Butterfly Animation](https://via.placeholder.com/800x400.png?text=Preview+Coming+Soon) *(Replace with an actual screenshot of your animation)*
+🔗 [Check it out on Vercel!](https://infinite-butterfly-structure.vercel.app/)
 
 ## 🔬 How It Started
 The journey began with the fundamental equation of a **circle**:
@@ -38,10 +34,6 @@ Through **continuous modifications and refinements**, the simple circle transfor
 ## 🌟 Contributing
 Feel free to fork the repo, submit issues, or enhance the animation! 🚀
 
-## 📝 License
-This project is licensed under the **MIT License** 🌟
-
 ---
 🌟 Made with ❤️ by [Shivansh Pathak](https://github.com/shivanshpathak01)
-```
 
